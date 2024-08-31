@@ -11,10 +11,10 @@
   "private": true,
   "license": "GPLv3",
   "devDependencies": {
-    "webpack": "^4.19.1",
+    "webpack": "^5.94.0",
     "webpack-cli": "^3.1.1"
   },
   "dependencies": {
-    "fullpage.js": "^3.0.8"
+    "fullpage.js": "^4.0.28"
   }
 }
